@@ -27,6 +27,7 @@ public class main {
                 str_num = j;
             }
         }
-        System.out.println(mass[str_num]);
+        System.out.println("Longest string: " + mass[str_num]);
+        System.out.println("Unique chars: " + str_max);
     }
 }
